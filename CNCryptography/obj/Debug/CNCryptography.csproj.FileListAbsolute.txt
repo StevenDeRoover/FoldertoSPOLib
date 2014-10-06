@@ -1,0 +1,9 @@
+C:\CN TFS\Misc\CNCryptography\bin\Debug\CNCryptography.exe.config
+C:\CN TFS\Misc\CNCryptography\bin\Debug\CNCryptography.exe
+C:\CN TFS\Misc\CNCryptography\bin\Debug\CNCryptography.pdb
+C:\CN TFS\Misc\CNCryptography\obj\Debug\CNCryptography.Form1.resources
+C:\CN TFS\Misc\CNCryptography\obj\Debug\CNCryptography.Properties.Resources.resources
+C:\CN TFS\Misc\CNCryptography\obj\Debug\CNCryptography.csproj.GenerateResource.Cache
+C:\CN TFS\Misc\CNCryptography\obj\Debug\CNCryptography.exe
+C:\CN TFS\Misc\CNCryptography\obj\Debug\CNCryptography.pdb
+C:\CN TFS\Misc\CNCryptography\obj\Debug\CNCryptography.csprojResolveAssemblyReference.cache

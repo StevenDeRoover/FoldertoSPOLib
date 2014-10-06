@@ -1,0 +1,5 @@
+C:\CN TFS\Misc\ClaimsAuth\bin\Debug\ClaimsAuth.dll
+C:\CN TFS\Misc\ClaimsAuth\bin\Debug\ClaimsAuth.pdb
+C:\CN TFS\Misc\ClaimsAuth\obj\Debug\ClaimsAuth.dll
+C:\CN TFS\Misc\ClaimsAuth\obj\Debug\ClaimsAuth.pdb
+C:\CN TFS\Misc\ClaimsAuth\obj\Debug\ClaimsAuth.csprojResolveAssemblyReference.cache

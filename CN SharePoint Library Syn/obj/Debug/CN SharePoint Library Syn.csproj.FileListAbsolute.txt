@@ -1,0 +1,17 @@
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\setting.xml
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\CN SharePoint Library Syn.exe.config
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\CN SharePoint Library Syn.exe.manifest
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\CN SharePoint Library Syn.application
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\CN SharePoint Library Syn.exe
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\CN SharePoint Library Syn.pdb
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN SharePoint Library Syn.csprojResolveAssemblyReference.cache
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN_SharePoint_Library_Syn.CNSharePointLibrarySyn.resources
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN_SharePoint_Library_Syn.ProjectInstaller.resources
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN SharePoint Library Syn.csproj.GenerateResource.Cache
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN SharePoint Library Syn.exe.manifest
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN SharePoint Library Syn.application
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN SharePoint Library Syn.exe
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Debug\CN SharePoint Library Syn.pdb
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll

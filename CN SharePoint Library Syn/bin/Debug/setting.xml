@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <FolderToWatch>
+    <folder
+      networklocation="\\swcnpde205\temp"
+      spsite="https://advancepublications.sharepoint.com/sites/techspace"
+      spLib="droplib"></folder>
+    <folder
+      networklocation="C:/Data"
+      spsite="https://advancepublications.sharepoint.com/sites/techspace"
+      spLib="droplib">
+    </folder>
+  </FolderToWatch>
+  <FileExtension>
+    <filter>.xls</filter>
+    <filter>.xlsx</filter>
+    <filter>.txt</filter>
+  </FileExtension>
+  <LogFilePath path="C:/FileWatcherLog/">
+  </LogFilePath>
+  <SharePointAccount>
+    <spaccount spsite="SITE" 
+               username="USERNAME" 
+               password="ENCR_PASSWORD"></spaccount>
+  </SharePointAccount>
+</root>

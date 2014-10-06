@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <FolderToWatch>
+    <folder
+      networklocation="LOCATION1"
+      spsite="https://SPOnlineSiteURL"
+      spLib="DOCLIBNAME1"></folder>
+    <folder
+      networklocation="LOCATION2"
+      spsite="https://SPOnlineSiteURL"
+      spLib="DOCLIBNAME2"></folder>
+  </FolderToWatch>
+  <FileExtension>
+    <filter>.xls</filter>
+    <filter>.xlsx</filter>
+    <filter>.txt</filter>
+  </FileExtension>
+  <LogFilePath path="C:/FileWatcherLog/">
+  </LogFilePath>
+  <SharePointAccount>
+    <spaccount spsite="https://SPOnlineSiteURL" 
+               username="USERNAME" 
+               password="PASSWORD" ency="0" ></spaccount>
+  </SharePointAccount>
+</root>

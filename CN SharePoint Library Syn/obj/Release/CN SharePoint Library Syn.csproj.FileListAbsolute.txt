@@ -1,0 +1,14 @@
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Release\CN SharePoint Library Syn.exe.config
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Release\CN SharePoint Library Syn.exe.manifest
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Release\CN SharePoint Library Syn.application
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Release\CN SharePoint Library Syn.exe
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Release\CN SharePoint Library Syn.pdb
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN SharePoint Library Syn.csprojResolveAssemblyReference.cache
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN_SharePoint_Library_Syn.CNSharePointLibrarySyn.resources
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN_SharePoint_Library_Syn.ProjectInstaller.resources
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN SharePoint Library Syn.csproj.GenerateResource.Cache
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN SharePoint Library Syn.exe.manifest
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN SharePoint Library Syn.application
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN SharePoint Library Syn.exe
+C:\CN TFS\Misc\CN SharePoint Library Syn\obj\Release\CN SharePoint Library Syn.pdb
+C:\CN TFS\Misc\CN SharePoint Library Syn\bin\Release\setting.xml
